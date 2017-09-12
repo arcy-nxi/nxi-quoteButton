@@ -3,7 +3,7 @@
 // @namespace   https://www.nextinpact.com/
 // @match       https://www.nextinpact.com/*
 // @description Ajoute le bouton de citations dans la barre d'action. Dev/test sous FF 55.0.3
-// @version     1.0.1
+// @version     1.0.2
 // @grant       Arcy / arcy-nxi
 // ==/UserScript==
 
